@@ -1,4 +1,4 @@
-# Facebook Engagement Bot Web
+# Facebook Engagement Bot Multilogin
 
 >Facebook Engagement Bot Web is an open-source **facebook bot** designed to automate common engagement workflows such as likes, comments, and message interactions on public Facebook content. It helps teams reduce repetitive manual actions while maintaining consistent interaction patterns across pages and posts.
 
@@ -21,7 +21,7 @@ Managing engagement on Facebook often involves repetitive tasks like liking post
 
 This project automates those workflows using a structured **facebook automation bot**, improving consistency, execution speed, and operational control while reducing human effort.
 
-### Social Media Engagement Automation Context
+### Facebook Engagement Automation Context
 
 - Automates repetitive likes and comment interactions on Facebook posts  
 - Enables controlled facebook comment automation for engagement workflows  
